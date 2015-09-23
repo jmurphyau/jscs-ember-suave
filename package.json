@@ -1,13 +1,13 @@
 {
   "name": "jscs-ember-suave",
-  "description": "ember-suave implemented as a JSCS plugin",
-  "version": "0.2.0",
-  "main": "lib/index",
+  "description": "ember-suave implemented as a JSCS preset",
+  "version": "0.3.0",
+  "main": "presets/ember-suave-preset.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/jmurphyau/jscs-ember-suave.git"
   },
   "devDependencies": {
-    "jscs": ">=1.8.0 <2.0.0"
+    "jscs": ">=2.1.1"
   }
 }
